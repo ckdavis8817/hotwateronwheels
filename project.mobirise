@@ -44,9 +44,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "Chicago Area Onsite Mobile Detail Schedule Service Hot Water On Wheels",
+        "meta_descr": "Chicago  detail dealer type service wash, wax,  steam clean, buff with professional buffer, power washer and steam cleaner. Save time and money with onsite scheduled service.  Car, truck,plane, boat, mobile home exterior interior steam cleaning and sanitizing. Stain , mildew and odor removal. ",
+        "header_custom": "<title>Chicago Area Onsite Mobile Detail Schedule Service Hot Water On Wheels</title>\n<meta name=\"Description\" content=\"Chicago  detail dealer type service wash, wax,  steam clean, buff with professional buffer, power washer and steam cleaner. Save time and money with onsite scheduled service.  Car, truck,plane, boat, mobile home exterior interior steam cleaning and sanitizing. Stain , mildew and odor removal. \">\n<meta name=\"Keywords\" content=\"auto,car,boat,plane,truck,motorcycle,detail,service,onsite,mobile\">\n",
         "footer_custom": "",
         "html_before": ""
       },
